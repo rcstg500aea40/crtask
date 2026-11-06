@@ -1,0 +1,8 @@
+External egress:
+<html><head></head><body>bhcudy8kbhed706iuid4a2kp08i01ombd</body></html>
+Metadata token endpoint (HTTP status only):
+HTTP status: 000
+Internal dispatch:
+<!doctype html><meta charset="utf-8"><meta name=viewport content="width=device-width, initial-scale=1"><title>403</title
+Metadata root:
+
